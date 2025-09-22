@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+
+# ROS2
+build/
+install/
+log/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
